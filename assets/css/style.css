@@ -47,7 +47,7 @@ body {
   position: absolute;
   width: 3px;
   height: 102%;
-  background: white;
+  background: rgb(27, 26, 26);
   left: -15px;
   top: 19px;
 }
@@ -73,7 +73,7 @@ body {
 
 .icon-contact {
   font-size: 20px;
-  color: #ffffff;
+  color: #2a2121;
   float: left;
   margin-right: 10px;
 }
